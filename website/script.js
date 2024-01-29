@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    var projects = ['Project 1', 'Project 2', 'Project 3']; // Replace with your actual projects
+    var projects = ['Project 1', 'Project 2', 'Project 3']; // Add more projects or fetch from an API
     var projectList = document.getElementById('project-list');
 
     projects.forEach(function (project) {
@@ -8,3 +8,4 @@ document.addEventListener('DOMContentLoaded', function () {
         projectList.appendChild(listItem);
     });
 });
+

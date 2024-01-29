@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
     text-align: center;
@@ -11,8 +11,24 @@ header {
     padding: 10px 0;
 }
 
-#projects {
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+section {
     margin: 20px;
+    padding: 20px;
 }
 
 footer {
@@ -23,3 +39,4 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
