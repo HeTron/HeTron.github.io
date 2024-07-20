@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             title: "Diabetes Diagnostic Analysis: Predictive Modeling with Decision Trees",
             description: "Utilized a dataset from the National Institute of Diabetes to predict diabetes outcomes...",
-            image: "images/ds_pic_web1.jpg",
+            image: "images/ds_pic_web4.jpg",
             link: "link_to_project"
         },
         {
