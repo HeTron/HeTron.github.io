@@ -3,19 +3,19 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             title: "Diabetes Diagnostic Analysis: Predictive Modeling with Decision Trees",
             description: "Utilized a dataset from the National Institute of Diabetes to predict diabetes outcomes...",
-            image: /Users/jocksolo/PycharmProjects/HeTron_Website/images/ds_pic_web1.jpg,
+            image: "images/ds_pic_web1.jpg",
             link: "link_to_project"
         },
         {
             title: "Health and Sociodemographic Correlation Analysis: A Regularized Linear Regression Approach",
             description: "Conducted a detailed study of U.S. county-level sociodemographic and health data...",
-            image: images/ds_pic_web2.jpg,
+            image: "images/ds_pic_web2.jpg",
             link: "link_to_project"
         },
         {
             title: "Google Play Review Sentiment Classifier: A Naive Bayes Approach",
             description: "Developed a Naive Bayes classifier for sentiment analysis on Google Play store reviews...",
-            image: images/ds_pic_web3.jpg,
+            image: "images/ds_pic_web3.jpg",
             link: "link_to_project"
         }
     ];
