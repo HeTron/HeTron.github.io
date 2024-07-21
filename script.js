@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', function () {
         {
             title: "Google Play Review Sentiment Classifier: A Naive Bayes Approach",
             description: "Developed a Naive Bayes classifier for sentiment analysis on Google Play store reviews...",
-            image: "images/ds_pic_web3.jpg",
+            image: "images/ds_pic_web1.jpg",
             link: "link_to_project"
         }
     ];
